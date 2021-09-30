@@ -1,4 +1,11 @@
 
+## Social Media 🌍
+
+- Facebook : [https://www.facebook.com/chititpat.Sripoot/](https://www.facebook.com/chititpat.Sripoot/)
+- Line : [@pingzero ](@pingzero)
+- instagram [https://www.instagram.com/pakping.ct/ ](https://www.instagram.com/pakping.ct/)
+
+
  ```bash
  ```
  <div>
