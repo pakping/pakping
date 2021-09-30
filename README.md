@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
- <img src="https://github.com/beeman/beeman/raw/master/under-construction.gif" />
+ <img src="https://github.com/pakping/pakping/blob/main/butt.gif" />
 </div>
 
 <div>
