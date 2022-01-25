@@ -51,13 +51,13 @@
 
 
 
-[website]: https://github.com/jamesmy
-[course]: https://github.com/jamesmy/warehouse
-[twitter]: https://github.com/jamesmy
-[youtube]: https://github.com/jamesmy
-[instagram]: https://github.com/jamesmy
-[linkedin]: https://github.com/jamesmy
-[webdevplaylist]: https://github.com/jamesmy
-[jsplaylist]: https://github.com/jamesmy
-[cssplaylist]: https://github.com/jamesmy
-[reactplaylist]: https://github.com/jamesmy
+[website]: https://github.com/pakping
+[course]: https://github.com/pakping
+[twitter]: https://github.com/pakping
+[youtube]: https://github.com/pakping
+[instagram]: https://github.com/pakping
+[linkedin]: https://github.com/pakping
+[webdevplaylist]: https://github.com/pakping
+[jsplaylist]: https://github.com/pakping
+[cssplaylist]: https://github.com/pakping
+[reactplaylist]: https://github.com/pakping
