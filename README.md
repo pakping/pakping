@@ -1,8 +1,6 @@
 
-## Social Media 🌍
 
-- Facebook : [https://www.facebook.com/chititpat.Sripoot/](https://www.facebook.com/chititpat.Sripoot/)
-- Line : [@pingzero ](@pingzero)
+
 
 
  ```bash
