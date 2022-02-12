@@ -7,22 +7,9 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-## About me
 
-## Things I am passionate about
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakping&show_icons=true&theme=radical)
 
-## Get in touch :coffee:
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
 
 
 
