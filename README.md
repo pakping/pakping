@@ -7,8 +7,8 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakping&show_icons=true&theme=radical)
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakping&show_icons=true&theme=radical) 
 
 
 
