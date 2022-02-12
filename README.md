@@ -17,7 +17,7 @@
 
 
 <div align="center">
- <img width="250px" src="https://github.com/pakping/pakping/blob/main/butt.gif" />
+ <img alt="Paris" width="300" height="300" src="https://github.com/pakping/pakping/blob/main/butt.gif" />
 </div>
 
 
