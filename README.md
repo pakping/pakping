@@ -17,7 +17,7 @@
 
 
 <div align="center">
- <img src="https://github.com/pakping/pakping/blob/main/butt.gif" />
+ <img width="250px" src="https://github.com/pakping/pakping/blob/main/butt.gif" />
 </div>
 
 
