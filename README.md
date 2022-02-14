@@ -22,10 +22,10 @@
 
 
 <a href="https://github.com/pakping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pakping&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/pakping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pakping&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
